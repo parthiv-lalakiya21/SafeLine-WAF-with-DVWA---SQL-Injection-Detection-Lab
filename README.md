@@ -168,35 +168,24 @@ for i in {1..300}; do curl http://localhost; done
 
 ### DVWA Application
 
-Add screenshot here:
-
-```text
-screenshots/dvwa-home.png
-```
+screenshot/before.jpg
 
 ### SafeLine Dashboard
 
-Add screenshot here:
+screenshot/rule.jpg
+ 
 
-```text
-screenshots/safeline-dashboard.png
-```
+### HTTP Flood Protection Rule
 
-### SQL Injection Detection
+screenshot/rate.jpg
 
-Add screenshot here:
+ 
 
-```text
-screenshots/sql-injection-blocked.png
-```
+### Block attacks using WAF
 
-### Attack Logs
+screenshot/after rule set.jpg
 
-Add screenshot here:
-
-```text
-screenshots/attack-logs.png
-```
+ 
 
 ---
 
