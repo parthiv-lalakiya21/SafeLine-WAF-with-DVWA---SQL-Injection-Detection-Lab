@@ -168,22 +168,19 @@ for i in {1..300}; do curl http://localhost; done
 
 ### DVWA Application
 
-screenshot/before.jpg
+![Wazuh Dashboard](screenshots/dvwa.jpg)
 
 ### SafeLine Dashboard
 
-screenshot/rule.jpg
- 
+![Active Agents](screenshots/setrule.jpg)
 
 ### HTTP Flood Protection Rule
 
-screenshot/rate.jpg
-
- 
+![PowerShell Alert](screenshots/rate.jpg)
 
 ### Block attacks using WAF
 
-screenshot/after rule set.jpg
+![Sysmon Events](screenshots/final.jpg)
 
  
 
